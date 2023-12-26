@@ -115,7 +115,7 @@ font-weight: bold;
 
 .marketing {
 background: url('images/content-bg.jpg') top center repeat-x;
-background-color: #000;
+background-color: #93E9BE;
 padding: 40px 30px 75px 20px;
 color: #fff;
 margin-top: -50px;
@@ -132,7 +132,7 @@ margin: 0 0 5px 0;
 
 .featurette h3 {
 font-weight:200;
-color: #ea2a2e;
+color: ##E993BE;
 font-size: 22px;
 margin: 0 0 10px 0;
 }
