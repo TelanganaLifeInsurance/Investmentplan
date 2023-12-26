@@ -46,7 +46,7 @@ color: #989da4;
 
 .callout {
 background: url('images/callout-bg-2.jpg') top center;
-background-color: #9ea3a9;
+background-color: #008B8B;
 text-align: left;
 padding: 25px 0 75px 0;
 color: #fff;
@@ -236,12 +236,12 @@ padding-top: 40px;
 @media (max-width: 993px) {
   .carousel {
     height: 633px;
-    background: #060607;
+    background: #008B8B;
   }
 
   .carousel .item {
     height: 633px;
-    background-color: #060607;
+    background-color: #008B8B;
   }
 
 
@@ -280,12 +280,12 @@ padding-top: 40px;
 
   .carousel {
     height: 703px;
-    background: #060607;
+    background: #008B8B;
   }
 
   .carousel .item {
     height: 703px;
-    background-color: #060607;
+    background-color: #008B8B;
   }
 
   .carousel-caption .col-md-8, .carousel-caption .col-md-4 {
