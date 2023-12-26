@@ -11,11 +11,7 @@ a.nostyle {
  }
 
 .masthead {
-background-color: #93E9BE;
--webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-border-bottom: 1px solid #989da4;
-line-height: 99px;
+background-color: #008B8B;
 }
 
 .logo img {
@@ -114,14 +110,7 @@ font-weight: bold;
 }
 
 .marketing {
-background: url('images/content-bg.jpg') top center repeat-x;
 background-color: #008B8B;
-padding: 40px 30px 75px 20px;
-color: #fff;
-margin-top: -50px;
--webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 }
 
 .featurette h2 {
